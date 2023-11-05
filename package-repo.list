@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/package-repo.gpg] https://danesparza.github.io/package-repo ./
