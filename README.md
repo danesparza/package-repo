@@ -1,5 +1,5 @@
 # package-repo
-Repo for custom .deb packages
+Repo for custom .deb packages, hosted on Github pages
 
 ## To install a package from this repo
 ```
