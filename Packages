@@ -1,3 +1,29 @@
+Package: fxaudio
+Version: 1.0.316
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxaudio-1.1.316_armhf.deb
+Size: 11326928
+MD5sum: 77ec6ea3db654208a58ff142507c96fd
+SHA1: 2f9369631a32428414e35e29df4615341b1354df
+SHA256: 6682d0593f16fcc7d9a1debf06ffdf14dc90e6041e29351064d3d53fd4aea643
+Homepage: https://github.com/danesparza/fxaudio
+Description: REST service for multichannel audio on demand from Raspberry Pi
+
+Package: fxdmx
+Version: 1.0.42
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxdmx-1.0.42_armhf.deb
+Size: 7000148
+MD5sum: 77fc5157d48fc38a949d6bbe961d7aab
+SHA1: 11766a4acb8d205c0166a32d08b54087e991b4c8
+SHA256: 316c38d93ad0cf85fe79288db356388d0631d4b087b5fc479d23d2617834bff4
+Homepage: https://github.com/danesparza/fxdmx
+Description: REST service for DMX fixture control from Raspberry Pi
+
 Package: fxpixel
 Version: 1.0.53
 Architecture: armhf
@@ -10,4 +36,17 @@ SHA1: 5427f0c6e23bb2fdac4b6fcc4a4b55ff6262d2bb
 SHA256: 62c8fe631f782cbe45528988c10175767786b9872d240d9b2fc2febe5d1ad5a5
 Homepage: https://github.com/danesparza/fxpixel
 Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
+
+Package: fxtrigger
+Version: 1.0.50
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxtrigger-1.0.50_armhf.deb
+Size: 6915924
+MD5sum: b0bce8ff2e719a45e85b98fe2226cd09
+SHA1: 015ea33d7d162e72f851c0b99f106044a1ab2803
+SHA256: 36042138ff053654ad87d5d0b14b9429d3b23fc8558bac172e567fe897de3961
+Homepage: https://github.com/danesparza/fxtrigger
+Description: REST based management for GPIO/Sensor -> endpoint triggers
 
