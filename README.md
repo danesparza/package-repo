@@ -2,11 +2,15 @@
 Repo for custom .deb packages, hosted on Github pages
 
 ## To install a package from this repo
+First, install the package key and do an `apt update`
 ```
 curl -s --compressed "https://danesparza.github.io/package-repo/KEY.gpg" | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/package-repo.gpg >/dev/null
 sudo curl -s --compressed -o /etc/apt/sources.list.d/package-repo.list "https://danesparza.github.io/package-repo/package-repo.list"
 sudo apt update
+```
 
+Next, install one of the packages
+```
 sudo apt install fxpixel
 ```
 
