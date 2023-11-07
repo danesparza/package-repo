@@ -26,7 +26,7 @@ This [tutorial](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.h
 
 These tools (installed in an ubuntu docker image)
 ```
-apt install gnupg dpkg-dev apt-utils
+apt install gnupg dpkg-dev apt-utils nano
 ```
 
 ## To build this repo (summarized from the tutorial, above)
