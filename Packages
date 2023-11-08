@@ -1,3 +1,16 @@
+Package: cloudjournal
+Version: 1.0.50
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./cloudjournal-1.0.50_armhf.deb
+Size: 5664008
+MD5sum: ecb90a581c7ab67d2729dd23842bcc7a
+SHA1: c74be43e7fee5faa8611284fa1d90b80444491db
+SHA256: d810aa1605a605295762b12f1174b199ad50b0cace3951be2ebb59f17d4ea64b
+Homepage: https://github.com/danesparza/cloudjournal
+Description: journald to AWS CloudWatch log shipping service for Raspberry Pi
+
 Package: daydash
 Version: 1.1.39
 Architecture: armhf
