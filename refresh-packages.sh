@@ -12,4 +12,7 @@ gpg --pinentry-mode loopback --passphrase ${PASSPHRASE} --batch --no-tty --defau
 gpg --pinentry-mode loopback --passphrase ${PASSPHRASE} --batch --no-tty --default-key "${EMAIL}" --clearsign -o - Release > InRelease
 
 # Reset permisisons
-chown -R ubuntu:ubuntu .
+# chown ubuntu:ubuntu Packages
+# chown ubuntu:ubuntu Packages.gz
+# chown ubuntu:ubuntu Release
+# chown ubuntu:ubuntu Release.gpg
