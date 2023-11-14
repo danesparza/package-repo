@@ -21,8 +21,12 @@ Now that the repo is installed, you can install one of the packages
 sudo apt install fxpixel
 ```
 
-## Tools used to build this
-This [tutorial](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html)
+--- 
+
+<details>
+    <summary>Tools used to build this</summary>
+
+    This [tutorial](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html)
 
 These tools (installed in an ubuntu docker image)
 ```
@@ -254,5 +258,7 @@ git push
   ](https://medium.com/sqooba/create-your-own-custom-and-authenticated-apt-repository-1e4a4cf0b864)
 - [A vscode ppa example by @tagplus5](https://github.com/tagplus5/vscode-ppa)
 - [What is the simplest Debian Packaging Guide?](https://askubuntu.com/questions/1345/what-is-the-simplest-debian-packaging-guide)
+</details>
+
 
 
