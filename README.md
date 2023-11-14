@@ -24,9 +24,10 @@ sudo apt install fxpixel
 --- 
 
 <details>
-    <summary>Tools used to build this</summary>
+<summary>Tools used to build this</summary>
 
-    This [tutorial](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html)
+
+This tutorial: https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html
 
 These tools (installed in an ubuntu docker image)
 ```
