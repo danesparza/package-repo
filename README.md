@@ -3,7 +3,7 @@ Repo for custom .deb packages, hosted on Github pages
 
 ## To install a package from this repo
 ### Step 1
-**Option 1:** Use the automated script to install the package key and update:
+**Option 1:** Use the automated script to install the repo, the repo key and then update:
 ```
 wget https://danesparza.github.io/package-repo/prereq.sh -O - | sh
 ```
