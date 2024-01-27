@@ -5,13 +5,13 @@ Repo for custom .deb packages, hosted on Github pages
 ### Step 1
 **Option 1:** Use the automated script to install the repo, the repo key and then update:
 ```
-wget https://danesparza.github.io/package-repo/prereq.sh -O - | sh
+wget https://packages.cagedtornado.com/prereq.sh -O - | sh
 ```
 
 **Option 2:** I don't trust you.  I'll run the commands myself:
 ```
-curl -s --compressed "https://danesparza.github.io/package-repo/KEY.gpg" | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/package-repo.gpg >/dev/null
-sudo curl -s --compressed -o /etc/apt/sources.list.d/package-repo.list "https://danesparza.github.io/package-repo/package-repo.list"
+curl -s --compressed "https://packages.cagedtornado.com/KEY.gpg" | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/package-repo.gpg >/dev/null
+sudo curl -s --compressed -o /etc/apt/sources.list.d/package-repo.list "https://packages.cagedtornado.com/package-repo.list"
 sudo apt update
 ```
 
