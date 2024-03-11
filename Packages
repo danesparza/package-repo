@@ -63,6 +63,19 @@ SHA256: 5c3ac721553baeda3e70512a9ed129d30b89534c12a1016fdc490a799827b57c
 Homepage: https://github.com/danesparza/appliance-monitor-sensor
 Description: REST service for appliance sensor on Raspberry Pi
 
+Package: appliance-monitor
+Version: 1.0.8
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./appliance-monitor-1.0.8_armhf.deb
+Size: 9403456
+MD5sum: b72a7e666cddf2a650514a9a29df3285
+SHA1: ec78ac1dceeae100e11c28f209b0bc84d053411f
+SHA256: d7faed3960fa06ac7cf912ed5fa5d65c4035d3885c9f5445e1934c1e77016ea4
+Homepage: https://github.com/danesparza/appliance-monitor-sensor
+Description: REST service for appliance sensor on Raspberry Pi
+
 Package: cloudjournal
 Version: 1.0.50
 Architecture: armhf
