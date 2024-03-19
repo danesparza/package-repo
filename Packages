@@ -64,6 +64,19 @@ Homepage: https://github.com/danesparza/appliance-monitor-sensor
 Description: REST service for appliance sensor on Raspberry Pi
 
 Package: appliance-monitor
+Version: 1.0.15
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./appliance-monitor-1.0.15_armhf.deb
+Size: 12232244
+MD5sum: 868ea292723f85a834ac8cf2f2969d35
+SHA1: 32e958da0c405aa932ab2606a173ef9518083b51
+SHA256: 80cbe7ef3ee1d0da747b262504c8813b15dca4811a865dfe051c76394d099de2
+Homepage: https://github.com/danesparza/appliance-monitor-sensor
+Description: REST service for appliance sensor on Raspberry Pi
+
+Package: appliance-monitor
 Version: 1.0.2
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
