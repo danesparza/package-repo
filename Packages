@@ -740,3 +740,16 @@ SHA256: 36042138ff053654ad87d5d0b14b9429d3b23fc8558bac172e567fe897de3961
 Homepage: https://github.com/danesparza/fxtrigger
 Description: REST based management for GPIO/Sensor -> endpoint triggers
 
+Package: iot-wifi-setup
+Version: 1.0.2
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./iot-wifi-setup-1.0.2_armhf.deb
+Size: 5940492
+MD5sum: e033354f24eac781560068dc6de4eb56
+SHA1: acbdc426d4295fdb45099916515f377a36e5e60d
+SHA256: bf359b7748820f985d8b666e8b300c34f5a7446b3cd2a06c7fce98f4fa704a22
+Homepage: https://github.com/danesparza/iot-wifi-setup
+Description: Configure wifi for your IoT app on Raspberry Pi
+
