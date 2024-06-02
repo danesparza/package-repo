@@ -850,6 +850,19 @@ SHA256: 15e9c9ba85bcd6462d9b5493427b84f6a2610039497ab72712c26755a7fb8192
 Homepage: https://github.com/danesparza/fxtrigger
 Description: REST based management for GPIO/Sensor -> endpoint triggers
 
+Package: fxtrigger
+Version: 1.0.7
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxtrigger-1.1.7_armhf.deb
+Size: 8693524
+MD5sum: c4627b7094b7439724cec6be4432e848
+SHA1: cd42fa7ae01525ddc6021263c51b61b9f27e1e1c
+SHA256: f75a72ef3689fcbeefb50b0a5d0433f783542670597c2b843abdd4c1caeabf40
+Homepage: https://github.com/danesparza/fxtrigger
+Description: REST based management for GPIO/Sensor -> endpoint triggers
+
 Package: iot-wifi-setup
 Version: 1.0.2
 Architecture: armhf
