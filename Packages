@@ -1020,6 +1020,19 @@ Homepage: https://github.com/danesparza/iot-wifi-setup
 Description: Configure wifi for your IoT app on Raspberry Pi
 
 Package: iot-wifi-setup
+Version: 1.0.21
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./iot-wifi-setup-1.0.21_armhf.deb
+Size: 8561616
+MD5sum: 6aa45feb4b2382bd9037179793f71ef1
+SHA1: 19755fadcb053e9180e72a83c51ce928c2e9e25d
+SHA256: 18cffb77fddf23ae77cb87f1dae06080c2ff4713600107d75235ad52fdf78368
+Homepage: https://github.com/danesparza/iot-wifi-setup
+Description: Configure wifi for your IoT app on Raspberry Pi
+
+Package: iot-wifi-setup
 Version: 1.0.3
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
