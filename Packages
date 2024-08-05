@@ -251,19 +251,6 @@ Homepage: https://github.com/danesparza/fxdmx
 Description: REST service for DMX fixture control from Raspberry Pi
 
 Package: fxpixel
-Version: 1.0.66
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./fxpixel-1.0.66_armhf.deb
-Size: 11654124
-MD5sum: 8f0ad7b62f2199f77c4842e6a61a2400
-SHA1: 700706a4362add0e1dfadd319264f8dfa7506a85
-SHA256: a1952965c47dc168ec6956c95b9fee7bbec922619ba08d889e3faaac97d9b540
-Homepage: https://github.com/danesparza/fxpixel
-Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
-
-Package: fxpixel
 Version: 1.0.67
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
@@ -366,19 +353,6 @@ SHA1: cd42fa7ae01525ddc6021263c51b61b9f27e1e1c
 SHA256: f75a72ef3689fcbeefb50b0a5d0433f783542670597c2b843abdd4c1caeabf40
 Homepage: https://github.com/danesparza/fxtrigger
 Description: REST based management for GPIO/Sensor -> endpoint triggers
-
-Package: iot-wifi-setup
-Version: 1.0.32
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./iot-wifi-setup-1.0.32_armhf.deb
-Size: 11792696
-MD5sum: 1f5bb8b181686786c4f9c53684a28428
-SHA1: af008f2b9810d043141cb2c577c8bd802f05acd2
-SHA256: 3f446a62e9c68713d65c928c7ceec633b9c920716b3176b719933d32ff638c62
-Homepage: https://github.com/danesparza/iot-wifi-setup
-Description: Configure wifi for your IoT app on Raspberry Pi
 
 Package: iot-wifi-setup
 Version: 1.0.33
