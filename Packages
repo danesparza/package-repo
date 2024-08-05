@@ -251,19 +251,6 @@ Homepage: https://github.com/danesparza/fxdmx
 Description: REST service for DMX fixture control from Raspberry Pi
 
 Package: fxpixel
-Version: 1.0.65
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./fxpixel-1.0.65_armhf.deb
-Size: 11654568
-MD5sum: dfe936e31899df029c14037ceadea88d
-SHA1: b4aa2d64d56e010a66ffa844b7bf6e7e13124d07
-SHA256: f32f13a0a0d4e29156ae162ab2b62aa2d61f30c6851412165c5451680d31fcea
-Homepage: https://github.com/danesparza/fxpixel
-Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
-
-Package: fxpixel
 Version: 1.0.66
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
