@@ -1,0 +1,419 @@
+Package: appliance-monitor
+Version: 1.0.35
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./appliance-monitor-1.0.35_armhf.deb
+Size: 12282408
+MD5sum: 9c5c3e752e5773ad210a7e3470435e90
+SHA1: cb1859283d7d486d04a4647104da75472d17c65e
+SHA256: 1ed0346db6a9cbaa2f5e25f94279182ed46411f5276a6c56d8b0c23ec2211f1a
+Homepage: https://github.com/danesparza/appliance-monitor-sensor
+Description: REST service for appliance sensor on Raspberry Pi
+
+Package: appliance-monitor
+Version: 1.0.36
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./appliance-monitor-1.0.36_armhf.deb
+Size: 12281808
+MD5sum: f568d62c6ad0ade123ee970901f01b9f
+SHA1: a6907b6937e4a097c00cb8c46cdd9e0a2859f275
+SHA256: 1d1502b59bcbd841b9c0700469a70669ea8c7dec5035315c78fa1ffe2e85d0ef
+Homepage: https://github.com/danesparza/appliance-monitor-sensor
+Description: REST service for appliance sensor on Raspberry Pi
+
+Package: appliance-monitor
+Version: 1.0.37
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./appliance-monitor-1.0.37_armhf.deb
+Size: 12281716
+MD5sum: f4146369c65b2d68de8b08b8065b509b
+SHA1: 306999462518a69f102cf91bb7d06666e6fc6cb5
+SHA256: b1fc7abd46524703339c03395ccab481ef53961760f1c864cf146ad760ae5eb4
+Homepage: https://github.com/danesparza/appliance-monitor-sensor
+Description: REST service for appliance sensor on Raspberry Pi
+
+Package: appliance-monitor
+Version: 1.0.38
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./appliance-monitor-1.0.38_armhf.deb
+Size: 12282396
+MD5sum: b789e7635bbfbe99b5a6be06ed1073bc
+SHA1: 1311dfea298b4e1974809b6c09d3b71ec4b88ce1
+SHA256: 635fced2f08e632944c63378693afab2fd39fbc93bf5692bab4fc3a261ec290f
+Homepage: https://github.com/danesparza/appliance-monitor-sensor
+Description: REST service for appliance sensor on Raspberry Pi
+
+Package: appliance-monitor
+Version: 1.0.40
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./appliance-monitor-1.0.40_armhf.deb
+Size: 12281944
+MD5sum: 907f4fdfaa9aa245ffeff5a25f9bd021
+SHA1: b41e85189ca5cba1afebbacdd241f828b925a225
+SHA256: 3cae8267bd42b6d5c209af34db0f79d520e3b0959dcfb77b9c3f7c04e939b3ec
+Homepage: https://github.com/danesparza/appliance-monitor-sensor
+Description: REST service for appliance sensor on Raspberry Pi
+
+Package: cloudjournal
+Version: 1.0.50
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./cloudjournal-1.0.50_armhf.deb
+Size: 5664008
+MD5sum: ecb90a581c7ab67d2729dd23842bcc7a
+SHA1: c74be43e7fee5faa8611284fa1d90b80444491db
+SHA256: d810aa1605a605295762b12f1174b199ad50b0cace3951be2ebb59f17d4ea64b
+Homepage: https://github.com/danesparza/cloudjournal
+Description: journald to AWS CloudWatch log shipping service for Raspberry Pi
+
+Package: daydash
+Version: 1.1.41
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./daydash-1.1.41_armhf.deb
+Size: 16191040
+MD5sum: 3cc6a1c93b409caa9c8119fb8e450bbb
+SHA1: 643e4c9d8ef59da24d13b5c6c62149d87308acc1
+SHA256: f4da9ee98702b35631179eaa41b624f161b185e330daca5cec604195d7212ef8
+Homepage: https://github.com/danesparza/daydash
+Description: REST service and UI host for a dashboard display on Raspberry Pi
+
+Package: daydash
+Version: 1.1.42
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./daydash-1.1.42_armhf.deb
+Size: 16190792
+MD5sum: edc3ec4a5d001884de47ebcd86acb10e
+SHA1: eb887da6638188523ef72770cecaec123832a073
+SHA256: 42e0cad3c1d7a5a61963d3c409d003bc2bf55f8d5aa83612a4cb6fc30c4a6140
+Homepage: https://github.com/danesparza/daydash
+Description: REST service and UI host for a dashboard display on Raspberry Pi
+
+Package: daydash
+Version: 1.1.44
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./daydash-1.1.44_armhf.deb
+Size: 16190432
+MD5sum: 4079d29e66c34df8e7d8f229d6c0913a
+SHA1: 943316fa0587a70453019fdf4cd19c41cb5816ec
+SHA256: badccea26fc09da2d808a18361e58cfa31db2a8de94995ea995c5626e97601aa
+Homepage: https://github.com/danesparza/daydash
+Description: REST service and UI host for a dashboard display on Raspberry Pi
+
+Package: daydash
+Version: 1.1.45
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./daydash-1.1.45_armhf.deb
+Size: 14577124
+MD5sum: 236661343385aac2f160c021402a9540
+SHA1: e7c61066e05db82040cec0d46b9528aeeff9ddca
+SHA256: d699e113d177699dcd276d51d5667c1bf118dcfb440a8c185bea7e3db516a879
+Homepage: https://github.com/danesparza/daydash
+Description: REST service and UI host for a dashboard display on Raspberry Pi
+
+Package: daydash
+Version: 1.1.46
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./daydash-1.1.46_armhf.deb
+Size: 16191496
+MD5sum: 4c439f4c276cbfd813bfc6e0913802fb
+SHA1: def1d41c8134643021b89cda1a1abba0205f0533
+SHA256: fe52d5b11ee071b7dbdcfbd914b4aaf61755164ce965ae7684ada2dd81f61910
+Homepage: https://github.com/danesparza/daydash
+Description: REST service and UI host for a dashboard display on Raspberry Pi
+
+Package: fxaudio
+Version: 1.0.339
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Depends: mpg123
+Filename: ./fxaudio-1.1.339_armhf.deb
+Size: 11248088
+MD5sum: 4b3610b42a1e902ecfb7a9c76e32c32e
+SHA1: e08adb1d4bc3f941a1cee20c5d0b82070781bb64
+SHA256: f165b487b877edc0cf75dffc82b529094c90db3b351ef5e673ae9b3b0eba9f54
+Homepage: https://github.com/danesparza/fxaudio
+Description: REST service for multichannel audio on demand from Raspberry Pi
+
+Package: fxaudio
+Version: 1.0.340
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Depends: mpg123
+Filename: ./fxaudio-1.1.340_armhf.deb
+Size: 11247652
+MD5sum: db33e6c6a114aa76689790d9db9f1fb5
+SHA1: 8ad700b8a3b86043188195154def2ef23c4cdb48
+SHA256: 354c0745c60ac1e6dd0cf5b6b6f16aa805bb1a8cba5dd27f0788c203da847655
+Homepage: https://github.com/danesparza/fxaudio
+Description: REST service for multichannel audio on demand from Raspberry Pi
+
+Package: fxaudio
+Version: 1.0.341
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxaudio-1.1.341_armhf.deb
+Size: 11247556
+MD5sum: 13b36940545abe6167a2e8f5692d02bc
+SHA1: ae1176604d474eedd84325e461885d48ffb51249
+SHA256: bcecca07e91c37cdf893e3c4fd3a8047a1aed574c91dbd38228f5ec9b61530e9
+Homepage: https://github.com/danesparza/fxaudio
+Description: REST service for multichannel audio on demand from Raspberry Pi
+
+Package: fxaudio
+Version: 1.0.342
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Depends: vlc-bin, vlc-plugin-base
+Filename: ./fxaudio-1.1.342_armhf.deb
+Size: 11248716
+MD5sum: 5d07352ce6ba691b9d24f16574a16427
+SHA1: 5cf47c11d25b5ad6bd7dca7220d6949041d4a700
+SHA256: 3df6f6311d64847c152f8342a2f23a12dbc56974409d4310786957b6a36b106b
+Homepage: https://github.com/danesparza/fxaudio
+Description: REST service for multichannel audio on demand from Raspberry Pi
+
+Package: fxaudio
+Version: 1.0.343
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxaudio-1.1.343_armhf.deb
+Size: 11247880
+MD5sum: dd32235d102cf272e08f4b78d41730d6
+SHA1: 587408680f3e468317b664718b9dbd3e32f69d27
+SHA256: 1a2615e4a8b446ada1a38391e414029d7b525260e1666f8b839fb04f052a1707
+Homepage: https://github.com/danesparza/fxaudio
+Description: REST service for multichannel audio on demand from Raspberry Pi
+
+Package: fxdmx
+Version: 1.0.42
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxdmx-1.0.42_armhf.deb
+Size: 7000148
+MD5sum: 77fc5157d48fc38a949d6bbe961d7aab
+SHA1: 11766a4acb8d205c0166a32d08b54087e991b4c8
+SHA256: 316c38d93ad0cf85fe79288db356388d0631d4b087b5fc479d23d2617834bff4
+Homepage: https://github.com/danesparza/fxdmx
+Description: REST service for DMX fixture control from Raspberry Pi
+
+Package: fxdmx
+Version: 1.0.5
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxdmx-1.1.5_armhf.deb
+Size: 8500508
+MD5sum: 452e34e25953d4cb6934259bfc8d5c47
+SHA1: c59f2183797cc026e2d6c75e1b6c4cee410516c1
+SHA256: a069bae22a72ae226d3c5e6cb30bbe1cad2f617b6ba72f1b389b26b26c6b4ef5
+Homepage: https://github.com/danesparza/fxdmx
+Description: REST service for DMX fixture control from Raspberry Pi
+
+Package: fxdmx
+Version: 1.0.6
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxdmx-1.1.6_armhf.deb
+Size: 8500548
+MD5sum: 435949056e784a8d1059f493f3f66170
+SHA1: eee1472c76b0d1a5f61a6b836efce48351f113ca
+SHA256: 9b14104e4d3e3c95f84bea9bd695588afccfe86557e3a67f4245229a2122adcb
+Homepage: https://github.com/danesparza/fxdmx
+Description: REST service for DMX fixture control from Raspberry Pi
+
+Package: fxpixel
+Version: 1.0.67
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxpixel-1.0.67_armhf.deb
+Size: 11654160
+MD5sum: f7a788a90cef9d745d415f12e899a6f0
+SHA1: e273236a5d1a7fba1ad380e30b873f6a52100ae9
+SHA256: e5ab5339f9022668dccee512621ddcd68ec63b330651e82d6b639c75e32e45fd
+Homepage: https://github.com/danesparza/fxpixel
+Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
+
+Package: fxpixel
+Version: 1.0.68
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxpixel-1.0.68_armhf.deb
+Size: 11655412
+MD5sum: 3904818eb0bd4579284c8f21287c5aed
+SHA1: 0ff81d740b6fbb051177427758d19afea495b7c8
+SHA256: 2e3df644317021ccdd4764583dea2eec735f90f0d824bd48b01b085345b6b4fe
+Homepage: https://github.com/danesparza/fxpixel
+Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
+
+Package: fxpixel
+Version: 1.0.69
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxpixel-1.0.69_armhf.deb
+Size: 11655916
+MD5sum: 884a7740dd15b2ece78c5736c7a75fbb
+SHA1: be5bb5d2d7a383747fab29265c5734703f928c17
+SHA256: 2c8ee3c478e8631fe1e4bd348309bfae55cdcddd11613a72fe8415061ab8f434
+Homepage: https://github.com/danesparza/fxpixel
+Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
+
+Package: fxpixel
+Version: 1.0.70
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxpixel-1.0.70_armhf.deb
+Size: 11601640
+MD5sum: 7b922e5fe35e5d433b8a9a4d2ae96230
+SHA1: f25e2ee173d3859b745b23e59caf2f18eca77fba
+SHA256: 4f4b50d9bbcd6c472fd1b0b1f556426578f70e03c9a6b3e501f3e68fd76664b7
+Homepage: https://github.com/danesparza/fxpixel
+Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
+
+Package: fxpixel
+Version: 1.0.71
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxpixel-1.0.71_armhf.deb
+Size: 11604576
+MD5sum: dc6861166346379784ffa2e4c666bc41
+SHA1: fe51745771cce93224ee2f2419c221dbbafae77f
+SHA256: d9cbf95c0f50802ad31adc4f27530d5da0f45b6be3197ed9537ffea698e749b3
+Homepage: https://github.com/danesparza/fxpixel
+Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
+
+Package: fxtrigger
+Version: 1.0.50
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxtrigger-1.0.50_armhf.deb
+Size: 6915924
+MD5sum: b0bce8ff2e719a45e85b98fe2226cd09
+SHA1: 015ea33d7d162e72f851c0b99f106044a1ab2803
+SHA256: 36042138ff053654ad87d5d0b14b9429d3b23fc8558bac172e567fe897de3961
+Homepage: https://github.com/danesparza/fxtrigger
+Description: REST based management for GPIO/Sensor -> endpoint triggers
+
+Package: fxtrigger
+Version: 1.0.6
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxtrigger-1.1.6_armhf.deb
+Size: 8367892
+MD5sum: ddc56b84ac806774598bcda6c90e1221
+SHA1: d954dd5320c46863e0902287ee9e69f4c208c5b8
+SHA256: 15e9c9ba85bcd6462d9b5493427b84f6a2610039497ab72712c26755a7fb8192
+Homepage: https://github.com/danesparza/fxtrigger
+Description: REST based management for GPIO/Sensor -> endpoint triggers
+
+Package: fxtrigger
+Version: 1.0.7
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxtrigger-1.1.7_armhf.deb
+Size: 8693524
+MD5sum: c4627b7094b7439724cec6be4432e848
+SHA1: cd42fa7ae01525ddc6021263c51b61b9f27e1e1c
+SHA256: f75a72ef3689fcbeefb50b0a5d0433f783542670597c2b843abdd4c1caeabf40
+Homepage: https://github.com/danesparza/fxtrigger
+Description: REST based management for GPIO/Sensor -> endpoint triggers
+
+Package: iot-wifi-setup
+Version: 1.0.35
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./iot-wifi-setup-1.0.35_armhf.deb
+Size: 11797924
+MD5sum: e44c85d70f83d3dde6b8b8c177770a9a
+SHA1: c0d0fee04b9c4ee363e57394459a09f6ee8e5776
+SHA256: 1ffa4af91bcaf21a8e6d3ff4d6e8f0c38cc539970de8a46f0deb944d684af5c0
+Homepage: https://github.com/danesparza/iot-wifi-setup
+Description: Configure wifi for your IoT app on Raspberry Pi
+
+Package: iot-wifi-setup
+Version: 1.0.36
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./iot-wifi-setup-1.0.36_armhf.deb
+Size: 11797344
+MD5sum: 30197c4394a4c9c5e0a8bd7952334b61
+SHA1: 478dac07315c92a42595f005c5a9935e2d9e30e4
+SHA256: 71d7a265a5cb395ac5489aecc67477214e8d6f38a696e94520176fc666e85ed1
+Homepage: https://github.com/danesparza/iot-wifi-setup
+Description: Configure wifi for your IoT app on Raspberry Pi
+
+Package: iot-wifi-setup
+Version: 1.0.37
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./iot-wifi-setup-1.0.37_armhf.deb
+Size: 11797024
+MD5sum: 76dcfe4acb7ee22fde7b8e587de89742
+SHA1: da773b0676f1b0afeaec08f60600117118837243
+SHA256: 085d3f2920b2cfa9e85db35cb1b7685886cf99ab1309c6c7e5ff859e9e2414a4
+Homepage: https://github.com/danesparza/iot-wifi-setup
+Description: Configure wifi for your IoT app on Raspberry Pi
+
+Package: iot-wifi-setup
+Version: 1.0.38
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./iot-wifi-setup-1.0.38_armhf.deb
+Size: 11798152
+MD5sum: 5fd17984d0249932357b1c03569535ec
+SHA1: fa702991e70a087225bdcddaae71a4db1d1e8a73
+SHA256: 9f235df73daa38d4d63d39f40fb722794f7b827e03860dd86dd2570bddcebafc
+Homepage: https://github.com/danesparza/iot-wifi-setup
+Description: Configure wifi for your IoT app on Raspberry Pi
+
+Package: iot-wifi-setup
+Version: 1.0.39
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./iot-wifi-setup-1.0.39_armhf.deb
+Size: 11797872
+MD5sum: e5ad72f7ca01be5dd5f30841f407e3a6
+SHA1: 16f76b33c0eb8943a658de5d74353e4e5783da52
+SHA256: e65886c7deea2dee4dfdd34ffd589b827471915a37cc458c61bde639ad1c3b82
+Homepage: https://github.com/danesparza/iot-wifi-setup
+Description: Configure wifi for your IoT app on Raspberry Pi
+
