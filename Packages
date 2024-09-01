@@ -142,19 +142,6 @@ Homepage: https://github.com/danesparza/daydash
 Description: REST service and UI host for a dashboard display on Raspberry Pi
 
 Package: fxaudio
-Version: 1.0.344
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./fxaudio-1.1.344_armhf.deb
-Size: 11247308
-MD5sum: a31f0d36e3d66a1c342586d0ebb4eb2f
-SHA1: f3644ea6bdc9049abd59c0a79040c472f0be1ced
-SHA256: 0eefc26d05acaac1a07bcf2f3cfb52eb7ff3b93bf9ff787f0326d868a12f522d
-Homepage: https://github.com/danesparza/fxaudio
-Description: REST service for multichannel audio on demand from Raspberry Pi
-
-Package: fxaudio
 Version: 1.0.345
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
@@ -415,6 +402,19 @@ Homepage: https://github.com/danesparza/iot-wifi-setup
 Description: Configure wifi for your IoT app on Raspberry Pi
 
 Package: iot-wifi-setup
+Version: 1.0.39
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./iot-wifi-setup-1.0.39_armhf.deb
+Size: 11797872
+MD5sum: e5ad72f7ca01be5dd5f30841f407e3a6
+SHA1: 16f76b33c0eb8943a658de5d74353e4e5783da52
+SHA256: e65886c7deea2dee4dfdd34ffd589b827471915a37cc458c61bde639ad1c3b82
+Homepage: https://github.com/danesparza/iot-wifi-setup
+Description: Configure wifi for your IoT app on Raspberry Pi
+
+kage: iot-wifi-setup
 Version: 1.0.39
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
