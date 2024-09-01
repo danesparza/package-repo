@@ -206,6 +206,19 @@ SHA256: c1fecbbae6f4aec6f0b4f9f864f074fac77f9c53761ec7a8d9b9f0db2c23b1af
 Homepage: https://github.com/danesparza/fxaudio
 Description: REST service for multichannel audio on demand from Raspberry Pi
 
+Package: fxaudio
+Version: 1.0.350
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxaudio-1.1.350_armhf.deb
+Size: 11251348
+MD5sum: e08ee2c75cd1971eabdc64499e1cf0b1
+SHA1: c09dafb449def36097c2101ada13cb4acb16de29
+SHA256: 1e0e3925c3239d3eee40b1ce864e1399dd10c2e296262e45e4c9338c920e2f07
+Homepage: https://github.com/danesparza/fxaudio
+Description: REST service for multichannel audio on demand from Raspberry Pi
+
 Package: fxdmx
 Version: 1.0.42
 Architecture: armhf
@@ -402,19 +415,6 @@ Homepage: https://github.com/danesparza/iot-wifi-setup
 Description: Configure wifi for your IoT app on Raspberry Pi
 
 Package: iot-wifi-setup
-Version: 1.0.39
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./iot-wifi-setup-1.0.39_armhf.deb
-Size: 11797872
-MD5sum: e5ad72f7ca01be5dd5f30841f407e3a6
-SHA1: 16f76b33c0eb8943a658de5d74353e4e5783da52
-SHA256: e65886c7deea2dee4dfdd34ffd589b827471915a37cc458c61bde639ad1c3b82
-Homepage: https://github.com/danesparza/iot-wifi-setup
-Description: Configure wifi for your IoT app on Raspberry Pi
-
-kage: iot-wifi-setup
 Version: 1.0.39
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
