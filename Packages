@@ -142,32 +142,6 @@ Homepage: https://github.com/danesparza/daydash
 Description: REST service and UI host for a dashboard display on Raspberry Pi
 
 Package: fxaudio
-Version: 1.0.400
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./fxaudio-1.1.400_armhf.deb
-Size: 11188472
-MD5sum: 1e924b285cda113e88a46157dd5f0158
-SHA1: 8ec835431423fcda04a6c4dd08339eeb14e00a3b
-SHA256: 8959581e0b6e8ae648b1d8e00ce900078b7e687aa4e9853a8c9cc70fa0225d2b
-Homepage: https://github.com/danesparza/fxaudio
-Description: REST service for multichannel audio on demand from Raspberry Pi
-
-Package: fxaudio
-Version: 1.0.401
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./fxaudio-1.1.401_armhf.deb
-Size: 11191664
-MD5sum: 306b5d4af6ad9cb2c0a027ccc9b013b9
-SHA1: 616648d451fc67471f5fe613b4a47b8b86875622
-SHA256: 7f6ca335bb5a6da6f378ce34be72d013e6e1d593b147c6e337d0c8cb62647a96
-Homepage: https://github.com/danesparza/fxaudio
-Description: REST service for multichannel audio on demand from Raspberry Pi
-
-Package: fxaudio
 Version: 1.0.402
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
