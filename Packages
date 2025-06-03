@@ -206,6 +206,19 @@ SHA256: 63b3b0332bd5c0415d068d13d591a0bfa3bac78728ec2abcd2051d8b884482fc
 Homepage: https://github.com/danesparza/fxaudio
 Description: REST service for multichannel audio on demand from Raspberry Pi
 
+Package: fxaudio
+Version: 1.0.424
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxaudio-1.1.424_armhf.deb
+Size: 12127616
+MD5sum: e9f71a5e58c8952a435ca4d98294c353
+SHA1: bb34d9322118ee3095cb73fa25551eb78e47a76e
+SHA256: f7de5d3fbf190b13969254ef16beea9ecbae57835153b9bd086eef291db782b2
+Homepage: https://github.com/danesparza/fxaudio
+Description: REST service for multichannel audio on demand from Raspberry Pi
+
 Package: fxdmx
 Version: 1.0.42
 Architecture: armhf
