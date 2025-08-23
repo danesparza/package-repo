@@ -207,19 +207,6 @@ Homepage: https://github.com/danesparza/fxaudio
 Description: REST service for multichannel audio on demand from Raspberry Pi
 
 Package: fxdmx
-Version: 1.0.42
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./fxdmx-1.0.42_armhf.deb
-Size: 7000148
-MD5sum: 77fc5157d48fc38a949d6bbe961d7aab
-SHA1: 11766a4acb8d205c0166a32d08b54087e991b4c8
-SHA256: 316c38d93ad0cf85fe79288db356388d0631d4b087b5fc479d23d2617834bff4
-Homepage: https://github.com/danesparza/fxdmx
-Description: REST service for DMX fixture control from Raspberry Pi
-
-Package: fxdmx
 Version: 1.0.5
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
