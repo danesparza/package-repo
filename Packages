@@ -271,6 +271,19 @@ SHA256: 449459499f9f639107e27308120797d586520c56ed3a5d628505286615ddd79f
 Homepage: https://github.com/danesparza/fxdmx
 Description: REST service for DMX fixture control from Raspberry Pi
 
+Package: fxdmx
+Version: 1.0.9
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxdmx-1.1.9_armhf.deb
+Size: 9103476
+MD5sum: 8f4f56518494a2d8f9dc25b953ec8f04
+SHA1: 6d698d7155267dcf5059acd50daa70bac3cae97a
+SHA256: db2b00093c01dbef1a1f9b667c25be0a77a1c6380117a5c68335822d0099c263
+Homepage: https://github.com/danesparza/fxdmx
+Description: REST service for DMX fixture control from Raspberry Pi
+
 Package: fxpixel
 Version: 1.0.68
 Architecture: armhf
