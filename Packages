@@ -77,19 +77,6 @@ Homepage: https://github.com/danesparza/cloudjournal
 Description: journald to AWS CloudWatch log shipping service for Raspberry Pi
 
 Package: daydash
-Version: 1.1.60
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./daydash-1.1.60_armhf.deb
-Size: 16893248
-MD5sum: 582a802ef10c224908b9eaf5882000e8
-SHA1: cbf6c6c280de774dba0444169714ff4a0228417e
-SHA256: b0db63f40fea7d7b6785c07e3ce7520a82b81bf842898d95d3a600a64bcd5c05
-Homepage: https://github.com/danesparza/daydash
-Description: REST service and UI host for a dashboard display on Raspberry Pi
-
-Package: daydash
 Version: 1.1.61
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
