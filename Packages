@@ -141,6 +141,19 @@ SHA256: 7115d5c0448870298591f2fdd7f2987039a69036b59bb36febf7095b7e18fa7e
 Homepage: https://github.com/danesparza/daydash
 Description: REST service and UI host for a dashboard display on Raspberry Pi
 
+Package: daydash
+Version: 1.1.71
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./daydash-1.1.71_armhf.deb
+Size: 16903372
+MD5sum: 20e574c39cbaf4c0537f1adffb607ce0
+SHA1: 57981f4cc6b41d9121686bb46eeae37c7c85942d
+SHA256: 7e825e21ab91cfec586318a5fe6e735f1514d3c4c3fbcf37e013a8b00ecc77f5
+Homepage: https://github.com/danesparza/daydash
+Description: REST service and UI host for a dashboard display on Raspberry Pi
+
 Package: fxaudio
 Version: 1.0.427
 Architecture: armhf
