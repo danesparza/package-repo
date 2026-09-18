@@ -336,6 +336,19 @@ SHA256: ee418012d88dcd6010786caa78c468a04f2fe0a0961f2e06a2d9640b9659eb6a
 Homepage: https://github.com/danesparza/fxpixel
 Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
 
+Package: fxpixel
+Version: 1.0.77
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxpixel-1.0.77_armhf.deb
+Size: 13206692
+MD5sum: 93ef7b6254bd44a99b5ade43aaec1bb9
+SHA1: ec547de027407e5ec10d79239df6d52e0eca1c2c
+SHA256: d783b94606a691a7323fbb251081f44fe7eb77214b702d7061da761b0ca9076f
+Homepage: https://github.com/danesparza/fxpixel
+Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
+
 Package: fxtrigger
 Version: 1.0.50
 Architecture: armhf
