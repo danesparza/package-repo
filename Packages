@@ -246,6 +246,19 @@ Homepage: https://github.com/danesparza/fxdmx
 Description: REST service for DMX fixture control from Raspberry Pi
 
 Package: fxdmx
+Version: 1.0.12
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxdmx-1.1.12_armhf.deb
+Size: 9611580
+MD5sum: 83ab8d381e1223f59d1e664e80d22a09
+SHA1: a80454bb6531773f1303f596eb1b90269d6109a6
+SHA256: f779da549f79bc4ec8f979aaf1b683dbd2817cedc777e5dfcadb586ab96a90b6
+Homepage: https://github.com/danesparza/fxdmx
+Description: REST service for DMX fixture control from Raspberry Pi
+
+Package: fxdmx
 Version: 1.0.7
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
@@ -346,6 +359,19 @@ Size: 13206692
 MD5sum: 93ef7b6254bd44a99b5ade43aaec1bb9
 SHA1: ec547de027407e5ec10d79239df6d52e0eca1c2c
 SHA256: d783b94606a691a7323fbb251081f44fe7eb77214b702d7061da761b0ca9076f
+Homepage: https://github.com/danesparza/fxpixel
+Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
+
+Package: fxpixel
+Version: 1.0.78
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxpixel-1.0.78_armhf.deb
+Size: 13748608
+MD5sum: e10e2822930412b28589aad7a3ec2b84
+SHA1: 372ccf5d0301cc9345182c5cf1e0b3c6efe928e7
+SHA256: 4c82084a5d831241fc5c28d67ca3a98f8a7b7fce2e59760ce81918035433678a
 Homepage: https://github.com/danesparza/fxpixel
 Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
 
