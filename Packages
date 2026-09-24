@@ -142,19 +142,6 @@ Homepage: https://github.com/danesparza/daydash
 Description: REST service and UI host for a dashboard display on Raspberry Pi
 
 Package: fxaudio
-Version: 1.0.427
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./fxaudio-1.1.427_armhf.deb
-Size: 12123340
-MD5sum: a14cc830733f8584bd607248681196cd
-SHA1: a034214ea2197aff386bf19ac0dae4a70b534e68
-SHA256: fb113176d0d66e970135d302d8ddf629aa896a51d8b3ad86d1e397289f4fb098
-Homepage: https://github.com/danesparza/fxaudio
-Description: REST service for multichannel audio on demand from Raspberry Pi
-
-Package: fxaudio
 Version: 1.0.429
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
@@ -259,19 +246,6 @@ Homepage: https://github.com/danesparza/fxdmx
 Description: REST service for DMX fixture control from Raspberry Pi
 
 Package: fxdmx
-Version: 1.0.7
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./fxdmx-1.1.7_armhf.deb
-Size: 9175076
-MD5sum: 50722c8e708d304d89bf17a66b201269
-SHA1: e023a61ce904607cb9b6f71fa94f0614a0d4638f
-SHA256: c5d4ddadc6a9106cbb18b41632d6e721bf812bca2a354083ac3be75ef9bb4fd6
-Homepage: https://github.com/danesparza/fxdmx
-Description: REST service for DMX fixture control from Raspberry Pi
-
-Package: fxdmx
 Version: 1.0.8
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
@@ -296,19 +270,6 @@ SHA1: 6d698d7155267dcf5059acd50daa70bac3cae97a
 SHA256: db2b00093c01dbef1a1f9b667c25be0a77a1c6380117a5c68335822d0099c263
 Homepage: https://github.com/danesparza/fxdmx
 Description: REST service for DMX fixture control from Raspberry Pi
-
-Package: fxpixel
-Version: 1.0.71
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./fxpixel-1.0.71_armhf.deb
-Size: 11604576
-MD5sum: dc6861166346379784ffa2e4c666bc41
-SHA1: fe51745771cce93224ee2f2419c221dbbafae77f
-SHA256: d9cbf95c0f50802ad31adc4f27530d5da0f45b6be3197ed9537ffea698e749b3
-Homepage: https://github.com/danesparza/fxpixel
-Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
 
 Package: fxpixel
 Version: 1.0.72
