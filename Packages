@@ -142,19 +142,6 @@ Homepage: https://github.com/danesparza/daydash
 Description: REST service and UI host for a dashboard display on Raspberry Pi
 
 Package: fxaudio
-Version: 1.0.429
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./fxaudio-1.1.429_armhf.deb
-Size: 12124912
-MD5sum: ef075bdf4d0b57a733c4e319c79dd96b
-SHA1: 00fb747ebf1d5c2ab9bcf8902c6188be7f57c57a
-SHA256: 43fa5351b76c2ade4e12a4fb4e7dbfeae48a9f79c6d8537d01e98ab9203beae6
-Homepage: https://github.com/danesparza/fxaudio
-Description: REST service for multichannel audio on demand from Raspberry Pi
-
-Package: fxaudio
 Version: 1.0.436
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
@@ -268,19 +255,6 @@ Size: 9626836
 MD5sum: 59e17bdfe1cefc3c87a711c64e6e81ec
 SHA1: 2893262a50e6cb14e06303204281a4342e32c93d
 SHA256: 57545b01d3d1d9a62c32e026365655b1bab4a5fc8f217506b5bc9e5aa7d130c5
-Homepage: https://github.com/danesparza/fxdmx
-Description: REST service for DMX fixture control from Raspberry Pi
-
-Package: fxdmx
-Version: 1.0.8
-Architecture: armhf
-Maintainer: Dan Esparza <esparza.dan@gmail.com>
-Installed-Size: 4500
-Filename: ./fxdmx-1.1.8_armhf.deb
-Size: 9104160
-MD5sum: 926035ddcc99be0c491323cef23df3cb
-SHA1: 689d64bb64e0854188cf56f828230fd35ffebb35
-SHA256: 449459499f9f639107e27308120797d586520c56ed3a5d628505286615ddd79f
 Homepage: https://github.com/danesparza/fxdmx
 Description: REST service for DMX fixture control from Raspberry Pi
 
