@@ -259,6 +259,19 @@ Homepage: https://github.com/danesparza/fxdmx
 Description: REST service for DMX fixture control from Raspberry Pi
 
 Package: fxdmx
+Version: 1.0.14
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxdmx-1.1.14_armhf.deb
+Size: 9626836
+MD5sum: 59e17bdfe1cefc3c87a711c64e6e81ec
+SHA1: 2893262a50e6cb14e06303204281a4342e32c93d
+SHA256: 57545b01d3d1d9a62c32e026365655b1bab4a5fc8f217506b5bc9e5aa7d130c5
+Homepage: https://github.com/danesparza/fxdmx
+Description: REST service for DMX fixture control from Raspberry Pi
+
+Package: fxdmx
 Version: 1.0.8
 Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
