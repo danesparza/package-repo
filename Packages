@@ -368,10 +368,10 @@ Architecture: armhf
 Maintainer: Dan Esparza <esparza.dan@gmail.com>
 Installed-Size: 4500
 Filename: ./fxpixel-1.0.78_armhf.deb
-Size: 13748608
-MD5sum: e10e2822930412b28589aad7a3ec2b84
-SHA1: 372ccf5d0301cc9345182c5cf1e0b3c6efe928e7
-SHA256: 4c82084a5d831241fc5c28d67ca3a98f8a7b7fce2e59760ce81918035433678a
+Size: 13750140
+MD5sum: cd61fc4a186280f5379347af38a90370
+SHA1: a2600e5c3727974bbb8508eb6af57747082271a4
+SHA256: f36bb19f984de7617714dbc52d151b4ced056c61c990cc89d87cbfe30602a8ef
 Homepage: https://github.com/danesparza/fxpixel
 Description: REST service for RGB(W) LED lighting effects on demand from Raspberry Pi
 
