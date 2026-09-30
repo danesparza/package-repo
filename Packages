@@ -206,6 +206,19 @@ SHA256: 12cfff107a3946938b3919f0536dac7511cb1df850366be8fa0f265bce9f2433
 Homepage: https://github.com/danesparza/fxaudio
 Description: REST service for multichannel audio on demand from Raspberry Pi
 
+Package: fxcontrol
+Version: 1.0.5
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxcontrol-1.1.5_armhf.deb
+Size: 8959448
+MD5sum: 1d63fa20aee8e35f9bcd0e1f503d87aa
+SHA1: fa1cab72c3fd3c8549443b5e655f3fc7cf5f8cc3
+SHA256: be3f4d16e9b105353bc72bb01ff1f85bae20f79dec7216e6e366841ace769e55
+Homepage: https://github.com/danesparza/fxcontrol
+Description: REST service for fx service discovery from Raspberry Pi
+
 Package: fxdmx
 Version: 1.0.10
 Architecture: armhf
