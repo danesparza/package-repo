@@ -245,6 +245,19 @@ SHA256: 068b580dda288e4f9a3fb476764ceca58a75a747999bd63045b0e0d12bf9c88b
 Homepage: https://github.com/danesparza/fxcontrol
 Description: REST service for fx service discovery from Raspberry Pi
 
+Package: fxcontrol
+Version: 1.0.8
+Architecture: armhf
+Maintainer: Dan Esparza <esparza.dan@gmail.com>
+Installed-Size: 4500
+Filename: ./fxcontrol-1.1.8_armhf.deb
+Size: 8958792
+MD5sum: fe9a7173eddb75fa779a1a813aed381a
+SHA1: c76bee7adc601cbde31f3a226f685cd9e41f3acc
+SHA256: 8054b8abbf3d42d7431606cc0d8b7478f1e14d3a9f0fe0189fddd4283034054a
+Homepage: https://github.com/danesparza/fxcontrol
+Description: REST service for fx service discovery from Raspberry Pi
+
 Package: fxdmx
 Version: 1.0.10
 Architecture: armhf
